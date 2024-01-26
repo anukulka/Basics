@@ -1,2 +1,3 @@
 # SEWorkshopBasics
-Software Engineering Basics Workshop. 
+Anurag Kulkarni 
+Hello Github!
